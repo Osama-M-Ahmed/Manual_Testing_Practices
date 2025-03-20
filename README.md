@@ -27,4 +27,4 @@ This repository documents the **manual testing** process for the **MyBanking App
 ## 📬 Contact & Feedback  
 For suggestions or questions, feel free to **open an issue**.  
 
-📌 **Maintained by:** *[Your Name]* 🚀  
+📌 **Maintained by:** *Osama Mohamed.* 🚀  
