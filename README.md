@@ -10,7 +10,8 @@ This repository documents the **manual testing** process for the **MyBanking App
 
 ## 📂 Key Deliverables  
 - **SRS Review** 
-- [**Test Cases**](https://onedrive.live.com/edit?id=CAFC18C8EB65B3AB!s818a280065f343ae934065a1c8ddda06&resid=CAFC18C8EB65B3AB!s818a280065f343ae934065a1c8ddda06&cid=cafc18c8eb65b3ab&ithint=file%2Cxlsx&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9jYWZjMThjOGViNjViM2FiL0VRQW9pb0h6WmE1RGswQmxvY2pkMmdZQmh2MEdGdEVESk02Z3BtaFhuaXRXSmc_ZT1hNFBLSVY&migratedtospo=true&wdo=2)
+- <a href="https://onedrive.live.com/edit?id=CAFC18C8EB65B3AB!s818a280065f343ae934065a1c8ddda06&resid=CAFC18C8EB65B3AB!s818a280065f343ae934065a1c8ddda06&cid=cafc18c8eb65b3ab&ithint=file%2Cxlsx&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9jYWZjMThjOGViNjViM2FiL0VRQW9pb0h6WmE1RGswQmxvY2pkMmdZQmh2MEdGdEVESk02Z3BtaFhuaXRXSmc_ZT1hNFBLSVY&migratedtospo=true&wdo=2" target="_blank" rel="noopener noreferrer"><b>Test Cases</b></a>
+
  
 - [**Bug Reports**](https://1drv.ms/x/c/cafc18c8eb65b3ab/EVFr8z2bfhhGoTh0WXY6W6YB0nw6mJTFGSjbSvBv0g28lA?e=goeNfi).   
 
