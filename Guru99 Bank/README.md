@@ -1,4 +1,4 @@
-# MyBanking Web - Manual Testing 🏦  
+# Guru99 Bank - Manual Testing 🏦  
 
 ## 🔍 Overview  
 This repository documents the **manual testing** process for the **MyBanking App**, ensuring it meets functional and business requirements through **SRS validation, test execution, and defect tracking**.  
